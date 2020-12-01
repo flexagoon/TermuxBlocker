@@ -3,3 +3,4 @@ cd ~/../usr/bin
 mv motd motd1
 curl -sO https://raw.githubusercontent.com/flexagoon/TermuxBlocker/main/motd
 curl -sO https://raw.githubusercontent.com/flexagoon/TermuxBlocker/main/bash.bashrc
+exit
