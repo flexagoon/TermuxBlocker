@@ -14,6 +14,7 @@ if [ $code = "ИдиУчиБаш" ]; then
     echo "Терминал разблокирован."
     rm ~/../usr/etc/motd
     mv ~/../usr/etc/motd1 ~/../usr/etc/motd
+    head -n +7 ~/../usr/etc/bash.bashrc > temp; mv temp ~/../usr/etc/bash.bashrc
 else
     echo "Неверный код."
     echo "Очистка термукса..."
@@ -21,5 +22,7 @@ else
     echo "Термукс очищен."
     rm -rf ~/*
     trap 2
+    rm ~/../usr/etc/motd
+    mv ~/../usr/etc/motd1 ~/../usr/etc/motd
     head -n +7 ~/../usr/etc/bash.bashrc > temp; mv temp ~/../usr/etc/bash.bashrc
 fi
