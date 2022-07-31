@@ -1,5 +1,7 @@
 # dumb af script kiddy shit im sorry dont look at this lmao
 
+sorry i made this a long time ago i promise i was not a termux skid i just wanted other skids to install this and give me a gazillion stars but it did not work i am so fucking sorry
+
 <details>
 <summary>no stfu i still want to use this</summary>
 
