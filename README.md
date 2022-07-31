@@ -1,3 +1,10 @@
+# dumb af script kiddy shit im sorry dont look at this lmao
+
+<details>
+<summary>no stfu i still want to use this</summary>
+
+sike the readme is in russian
+
 # TermuxBlocker
 ### Простой скрипт, блокирующий терминал пользователя и требующий ввода пароля.
 ---
@@ -16,3 +23,6 @@
   + *Релиз проекта*
 + **Beta v0.2**
   + *Изменение motd*
+
+
+</details>
